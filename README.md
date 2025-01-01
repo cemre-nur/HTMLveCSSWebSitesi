@@ -36,6 +36,7 @@ Bu web sitesini yerel bir sunucuda çalıştırmak için aşağıdaki adımları
 ## Kullanım
 ### Ana Sayfa
 1. Listelenen kitapların her biri altında iki buton bulunmaktadır:
+
    **"Satın Almak İçin"**: Bu buton sizi ilgili kitabın D&R'daki sayfasına yönlendirir.
    
    **"Yorumlarım"**: Bu butona tıkladığınızda, web sitesi sahibinin kitap hakkında yazdığı yorumları görüntüleyebilirsiniz.
