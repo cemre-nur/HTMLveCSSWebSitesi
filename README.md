@@ -23,14 +23,10 @@ Bu web sitesini yerel bir sunucuda çalıştırmak için aşağıdaki adımları
 1. **Dosyaları İndirin**
    - Projenin tüm dosyalarını bilgisayarınıza indirin veya kopyalayın.
 
-2. **Web Sunucusu Kurulumu**
-   - Web sitenizi çalıştırmak için bir web sunucusu gereklidir.
-
-3. **Dosyaları Web Sunucusuna Taşıyın**
-   - İndirdiğiniz dosyaları sunucunun "htdocs" veya "www" dizinine yerleştirin.
-
-4. **Web Sitesini Tarayıcıda Açın**
-   - Web tarayıcınızı açın ve şu URL'yi girin: `http://localhost/`.
+2. **Dosyaları Çalıştırın:**
+   - Proje statik bir web sitesi olduğundan, herhangi bir ek sunucuya ihtiyaç yoktur. 
+   - İndirilen dosyaları tarayıcıda açarak kullanabilirsiniz:
+     - `index.html` dosyasını tarayıcıda çift tıklayarak açın.
 
 
 ## Kullanım
